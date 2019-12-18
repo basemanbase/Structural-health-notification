@@ -1,14 +1,3 @@
-// Code source: https://create.arduino.cc/editor/LogMaker360/1104a08f-fb8b-47ff-8253-1cdc5c11581f/preview
-/*
-//-----------------------------------------------
-// Author: Trieu Le
-// Email: lethanhtrieuk36@gmail.com
-// Publish date: 07-Oct-2015
-// Description: This code for demonstration send data from ESP8266 into Google Spreadsheet
-// GET request syntax:
-// https://script.google.com/macros/s/<gscript id>/exec?header_here=data_here
-// Modifyed by Moz for Youtube changel logMaker360 for this video: https://youtu.be/fS0GeaOkNRw 24-02-2018
-
 
 //-----------------------------------------------
 /**
